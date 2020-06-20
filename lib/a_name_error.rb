@@ -1,5 +1,3 @@
-def hello_world
-  puts "hello world"
-end 
+"hello world"
 
 hello_world
